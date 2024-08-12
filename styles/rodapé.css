@@ -45,6 +45,10 @@ hr {
         margin-left: 0.6em;
     }
 
+    .lista-rodapé__link:hover {
+        color: var(--laranja);
+    }
+
 }
 
 @media screen and (min-width: 1728px) {
