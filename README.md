@@ -1,6 +1,8 @@
 # Projeto AluraBooks 
 Projeto realizado no curso de HTML e CSS da escola de Front-end da Alura.
 
+<p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>
+
 <hr>
 
 <p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
